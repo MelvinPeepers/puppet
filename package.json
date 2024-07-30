@@ -10,7 +10,16 @@
   "repository": "git@github.com:MelvinPeepers/puppet.git",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "21.3.8"
+    "gatsby": "^5.13.7",
+    "gatsby-plugin-image": "^3.13.1",
+    "gatsby-plugin-manifest": "^5.13.1",
+    "gatsby-plugin-react-helmet": "^6.13.1",
+    "gatsby-plugin-sharp": "^5.13.1",
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-transformer-sharp": "^5.13.1",
+    "puppeteer": "21.3.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "gatsby-cli": "^5.13.3"
